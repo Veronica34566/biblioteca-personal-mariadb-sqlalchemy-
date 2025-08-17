@@ -1,4 +1,4 @@
-# biblioteca-personal-mariadb-sqlalchemy-
+
 # Biblioteca personal — MariaDB + SQLAlchemy
 
 Migración de una app CLI de biblioteca desde SQLite a **MariaDB** usando **SQLAlchemy (ORM)**.
